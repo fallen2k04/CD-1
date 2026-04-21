@@ -15,3 +15,6 @@
 .vscode/
 *.phar
 *.phar.1
+
+PHP-8/
+
