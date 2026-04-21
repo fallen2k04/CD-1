@@ -1,0 +1,17 @@
+**/vendor/
+**/node_modules/
+**/.env
+**/storage/*.key
+**/storage/framework/cache/data/*
+**/storage/framework/sessions/*
+**/storage/framework/testing/*
+**/storage/framework/views/*
+**/storage/logs/*
+**/.phpunit.result.cache
+**/public/storage
+**/database/*.sqlite
+.cursor/
+.idea/
+.vscode/
+*.phar
+*.phar.1
